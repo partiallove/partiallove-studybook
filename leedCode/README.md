@@ -11,8 +11,8 @@
 
     环形链表
 
-    - 代码 
-    - 掘金文章 [🔗 地址](https://juejin.cn/post/7038156854219767844)
+    - 代码 [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2021%E5%B9%B412%E6%9C%882%E6%97%A5/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.js)
+    - 掘金文章 [🔗 掘金](https://juejin.cn/post/7038156854219767844)
 
     环形链表 II
 
