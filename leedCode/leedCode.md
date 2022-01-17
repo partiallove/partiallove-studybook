@@ -524,26 +524,26 @@
     不同的二叉搜索树 II
   
     - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8817%E6%97%A5/%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%20II.js)
-    - 掘金文章 [🔗 掘金]()
+    - 掘金文章 [🔗 掘金](https://juejin.cn/post/7054098996846919716/)
   
     颜色分类
   
     - 代码   [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8817%E6%97%A5/%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.js)
-    - 掘金文章  [🔗 掘金]()
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7054100580612571173/)
   
      面试题 17.14. 最小K个数 
   
     - 代码 [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8817%E6%97%A5/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.14.%20%E6%9C%80%E5%B0%8FK%E4%B8%AA%E6%95%B0.js)
-    - 掘金文章  [🔗 掘金]()
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7054100877610745887/)
   
     排序链表
   
     - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8817%E6%97%A5/%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.js)
-    - 掘金文章  [🔗 掘金]()
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7054103541907980295/)
   
     剑指 Offer 21. 调整数组顺序使奇数位于偶数前面
   
     - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8817%E6%97%A5/%E5%89%91%E6%8C%87%20Offer%2021.%20%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2.js)
-    - 掘金文章 [🔗 掘金]()
+    - 掘金文章 [🔗 掘金](https://juejin.cn/post/7054104887579115528/)
   
 
