@@ -573,4 +573,31 @@
     - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8819%E6%97%A5/%E9%9D%A2%E8%AF%95%E9%A2%98%2004.08.%20%E9%A6%96%E4%B8%AA%E5%85%B1%E5%90%8C%E7%A5%96%E5%85%88.js)
     - 掘金文章  [🔗 掘金]()
   
+  - 2022年01月21日
+  
+    层数最深叶子节点的和
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8821%E6%97%A5/%E5%B1%82%E6%95%B0%E6%9C%80%E6%B7%B1%E5%8F%B6%E5%AD%90%E8%8A%82%E7%82%B9%E7%9A%84%E5%92%8C.js)
+    - 掘金文章 [🔗 掘金]()
+  
+    合并K个升序链表  
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8821%E6%97%A5/%E5%90%88%E5%B9%B6K%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.js)
+    - 掘金文章  [🔗 掘金]()
+  
+     子数组和排序后的区间和
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8821%E6%97%A5/%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C%E6%8E%92%E5%BA%8F%E5%90%8E%E7%9A%84%E5%8C%BA%E9%97%B4%E5%92%8C.js)
+    - 掘金文章  [🔗 掘金]()
+  
+    区间和的个数
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8821%E6%97%A5/%E5%8C%BA%E9%97%B4%E5%92%8C%E7%9A%84%E4%B8%AA%E6%95%B0.js)
+    - 掘金文章  [🔗 掘金]()
+  
+    计算右侧小于当前元素的个数
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8821%E6%97%A5/%E8%AE%A1%E7%AE%97%E5%8F%B3%E4%BE%A7%E5%B0%8F%E4%BA%8E%E5%BD%93%E5%89%8D%E5%85%83%E7%B4%A0%E7%9A%84%E4%B8%AA%E6%95%B0.js)
+    - 掘金文章  [🔗 掘金]()
+  
 
