@@ -627,4 +627,31 @@
     - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8824%E6%97%A5/%E9%9D%A2%E8%AF%95%E9%A2%98%C2%A004.12.%C2%A0%E6%B1%82%E5%92%8C%E8%B7%AF%E5%BE%84.js)
     - 掘金文章  [🔗 掘金](https://juejin.cn/post/7056624757080326175/)
   
+  - 2022年01月26日
+  
+    课程表
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8826%E6%97%A5/%E8%AF%BE%E7%A8%8B%E8%A1%A8.js)
+    - 掘金文章 [🔗 掘金](https://juejin.cn/post/7057792914499305485/)
+  
+    课程表 II  
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8826%E6%97%A5/%E8%AF%BE%E7%A8%8B%E8%A1%A8%C2%A0II.js)
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7057810153709502478/)
+  
+     数组的相对排序
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8826%E6%97%A5/%E6%95%B0%E7%BB%84%E7%9A%84%E7%9B%B8%E5%AF%B9%E6%8E%92%E5%BA%8F.js)
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7057811428689838110/)
+  
+    最大间距
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8826%E6%97%A5/%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.js)
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7057813411647717389/)
+  
+    H 指数
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B401%E6%9C%8826%E6%97%A5/H%C2%A0%E6%8C%87%E6%95%B0.js)
+    - 掘金文章  [🔗 掘金]()
+  
 
