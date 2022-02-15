@@ -686,24 +686,51 @@
     字符频次唯一的最小删除次数
   
     - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B402%E6%9C%8811%E6%97%A5/%E5%AD%97%E7%AC%A6%E9%A2%91%E6%AC%A1%E5%94%AF%E4%B8%80%E7%9A%84%E6%9C%80%E5%B0%8F%E5%88%A0%E9%99%A4%E6%AC%A1%E6%95%B0.js)
-    - 掘金文章 [🔗 掘金]()
+    - 掘金文章 [🔗 掘金](https://juejin.cn/post/7064460425080864804/)
   
     移动零
   
     - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B402%E6%9C%8811%E6%97%A5/%E7%A7%BB%E5%8A%A8%E9%9B%B6.js)
-    - 掘金文章  [🔗 掘金]()
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7064762136077025316/)
   
      面试题 10.01. 合并排序的数组
   
     - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B402%E6%9C%8811%E6%97%A5/%E9%9D%A2%E8%AF%95%E9%A2%98%C2%A010.01.%C2%A0%E5%90%88%E5%B9%B6%E6%8E%92%E5%BA%8F%E7%9A%84%E6%95%B0%E7%BB%84.js)
-    - 掘金文章  [🔗 掘金]()
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7064766427529969701/)
   
     数组拆分 I 
   
     - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B402%E6%9C%8811%E6%97%A5/%E6%95%B0%E7%BB%84%E6%8B%86%E5%88%86%C2%A0I.js)
-    - 掘金文章  [🔗 掘金]()
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7064816080169992205/)
   
     最多可以参加的会议数目
   
     - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B402%E6%9C%8811%E6%97%A5/%E6%9C%80%E5%A4%9A%E5%8F%AF%E4%BB%A5%E5%8F%82%E5%8A%A0%E7%9A%84%E4%BC%9A%E8%AE%AE%E6%95%B0%E7%9B%AE.js)
-    - 掘金文章  [🔗 掘金]()
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7064819863499309069/)
+  
+  - 2022年02月14日
+  
+     Sqrt(x)
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B402%E6%9C%8811%E6%97%A5/%E5%AD%97%E7%AC%A6%E9%A2%91%E6%AC%A1%E5%94%AF%E4%B8%80%E7%9A%84%E6%9C%80%E5%B0%8F%E5%88%A0%E9%99%A4%E6%AC%A1%E6%95%B0.js)
+    - 掘金文章 [🔗 掘金](https://juejin.cn/post/7064829270228975624/)
+  
+    搜索插入位置
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B402%E6%9C%8811%E6%97%A5/%E7%A7%BB%E5%8A%A8%E9%9B%B6.js)
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7064831096717836295/)
+  
+     两数之和
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B402%E6%9C%8811%E6%97%A5/%E9%9D%A2%E8%AF%95%E9%A2%98%C2%A010.01.%C2%A0%E5%90%88%E5%B9%B6%E6%8E%92%E5%BA%8F%E7%9A%84%E6%95%B0%E7%BB%84.js)
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7064832438416965669/)
+  
+    在排序数组中查找元素的第一个和最后一个位置
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B402%E6%9C%8811%E6%97%A5/%E6%95%B0%E7%BB%84%E6%8B%86%E5%88%86%C2%A0I.js)
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7064833082176012324/)
+  
+    将 x 减到 0 的最小操作数
+  
+    - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B402%E6%9C%8811%E6%97%A5/%E6%9C%80%E5%A4%9A%E5%8F%AF%E4%BB%A5%E5%8F%82%E5%8A%A0%E7%9A%84%E4%BC%9A%E8%AE%AE%E6%95%B0%E7%9B%AE.js)
+    - 掘金文章  [🔗 掘金](https://juejin.cn/post/7064835473608278024/)
