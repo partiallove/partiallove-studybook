@@ -875,24 +875,24 @@
      员工的重要性
   
      - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B403%E6%9C%8802%E6%97%A5/%E5%91%98%E5%B7%A5%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7.js)
-     - 掘金文章 [🔗 掘金]()
+     - 掘金文章 [🔗 掘金](https://juejin.cn/post/7072561373519020069/)
   
      电话号码的字母组合
   
      - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B403%E6%9C%8802%E6%97%A5/%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.js)
-     - 掘金文章  [🔗 掘金]()
+     - 掘金文章  [🔗 掘金](https://juejin.cn/post/7072562132767735839/)
   
       完全平方数
   
      - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B403%E6%9C%8802%E6%97%A5/%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.js)
-     - 掘金文章  [🔗 掘金]()
+     - 掘金文章  [🔗 掘金](https://juejin.cn/post/7072563343566831629/)
   
      二叉树的最小深度
   
      - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B403%E6%9C%8802%E6%97%A5/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6.js)
-     - 掘金文章  [🔗 掘金]()
+     - 掘金文章  [🔗 掘金](https://juejin.cn/post/7072564108222021640/)
   
      跳跃游戏 III
   
      - 代码  [🔗 代码](https://github.com/partiallove/partiallove-studybook/blob/main/leedCode/code/2022%E5%B9%B403%E6%9C%8802%E6%97%A5/%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20III.js)
-     - 掘金文章  [🔗 掘金]()
+     - 掘金文章  [🔗 掘金](https://juejin.cn/post/7072565065974546440/)
