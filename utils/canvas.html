@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        canvas {
+            border: 1px solid red;
+        }
+    </style>
+</head>
+
+<body>
+<canvas width="300" height="300" id="canvas1"></canvas>
+</body>
+
+</html>
+<script>
+    window.onload = function () {
+        var mycanvas = document.getElementById('canvas1');
+        var ctx = mycanvas.getContext('2d');
+        dw();
+
+        function dw() {
+            mycanvas.onmousedown = function () {
+                let y1 = event.offsetY;
+                let x1 = event.offsetX;
+                mycanvas.onmousemove = function () {
+                    let y = event.offsetY;
+                    let x = event.offsetX;
+                    // ctx.save();
+                    ctx.beginPath();
+                    ctx.lineCap = 'round';
+                    ctx.lineJoin = 'round'
+                    ctx.lineWidth = 10;
+                    // ctx.lineTo(x1, y1);
+                    ctx.lineTo(x, y);
+                    ctx.lineWidth = 10;
+                    ctx.stroke();
+                    // ctx.restore();
+                    x1 = x;
+                    y1 = y
+                }
+            }
+        }
+
+        mycanvas.onmouseup = function () {
+            mycanvas.onmousedown = null;
+            mycanvas.onmousemove = null;
+            dw();
+        }
+        mycanvas.onmouseleave = function () {
+            mycanvas.onmousedown = null;
+            mycanvas.onmousemove = null;
+            dw();
+        }
+    }
+</script>
